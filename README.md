@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**JaelynnS11/jaelynns11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JaelynnS11/jaelynns11.githun.io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
