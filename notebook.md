@@ -29,18 +29,57 @@ At the top, begin a table of contents, Example:
 
 
 </details>
- <summary>Selection</summary>
-     The point where decisions are made in an algorithm
- 
-  Example: Input “How old are you?”
-age ← USER INPUT IF age > 16 THEN OUTPUT "You are old enough to drive a car" ELSE OUTPUT "Come back when you are older!"
+ <summary>java</summary>
+ A program language, different from javascript.
+</details>
+
+//object language, object oriented language, procedural language, class, method, console.
+
+</details>
+ <summary>object-oriented language</summary>
+ Programing is a way of a writing code where you group related data and actions into reusable "objects" kind of like organizing tools into labeled boxes.
+
+</details>
+<summary>procedural language</summary>
+Procedural languages focus on procedurals (functions) that operate on the data in a linear top-down sequence. 
 
 
 </details>
- <summary>iteration</summary>
-Iterating in loops is to systematically move through each item in a set of data. Executing code for each item is an iteration of the code. Often, when creating a program, we need to try again and again. Then, even when it's working, we often improve on it and update it. This process of repetition and re-creating the project is called iteration.
+<summary>class</summary>
+In java , a class is like a blueprint that defines the structure and behavior (Data and actions) of objects you can create from it.
+
+
+</details>
+<summary>method</summary>
+A method in java.
+
+
+
+
+
+
+
+
+
+</details>
+<summary>console</summary>
+The area of a computer that notes form a program can be printed to . Kind of like a notebook.    
   
-  
+
+</details>
+<summary>console</summary>
+
+
+
+
+
+
+
+
+
+
+
+
  
   Example: Often, when creating a program, we need to try again and again. Then, even when it's working, we often improve on it and update it. This process of repetition and re-creating the project is called iteration.
 
