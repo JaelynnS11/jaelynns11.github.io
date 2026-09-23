@@ -53,14 +53,6 @@ In java , a class is like a blueprint that defines the structure and behavior (D
 <summary>method</summary>
 A method in java.
 
-
-
-
-
-
-
-
-
 </details>
 <summary>console</summary>
 The area of a computer that notes form a program can be printed to . Kind of like a notebook.    
@@ -70,6 +62,62 @@ The area of a computer that notes form a program can be printed to . Kind of lik
 <summary>console</summary>
 
 
+ Example: Often, when creating a program, we need to try again and again. Then, even when it's working, we often improve on it and update it. This process of repetition and re-creating the project is called iteration.
+
+
+</details>
+Print Statements:
+
+Console: The area of a computer that notes from a program can be printed to. kind of like a notebook.
+
+</details>
+commenting:
+
+Commenting: Information in you program that does not run, but simply meant to be informative.
+
+Internal documentation: A link that takes a user to a different page in the same site .
+
+External documentation: External documentation is the information about your code that kept outside the actual source files, like user guides, API references, or manuals, to help others understand how to use or work with your program.
+
+
+</details>
+String variables 
+
+Variables: A variable is like a box that holds the information you want.
+
+Strings: A string is a set of words or numbers that are surrounded by quotations marks. " Here is 1 string."
+
+
+</details>
+Data types:
+
+
+Strings: A series of characters, such as a word or a phrase. Strings must be surrounded by quotations marks.
+    
+     Example:"rain","couch"
+
+
+Integers: Whole numbers, which can be either positive or negative.
+
+     Example: 12, -300
+
+double: Used for decimals numbers.
+
+    Example: 3.14, -0.05
+
+char:Used for a single character. Characters must be surrounded by single quotes.
+
+     Example: 'A', '1', '$'
+
+
+
+boolean: Represents true or false values.
+
+
+    Example: true, false
+
+
+camelCase: camelCase is a way of words writing compound words or phrases where each word starts with a capital letter and there is no spaces.
 
 
 
@@ -80,8 +128,28 @@ The area of a computer that notes form a program can be printed to . Kind of lik
 
 
 
- 
-  Example: Often, when creating a program, we need to try again and again. Then, even when it's working, we often improve on it and update it. This process of repetition and re-creating the project is called iteration.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
