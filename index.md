@@ -6,7 +6,6 @@
 
 - Project 2: Description
 - jaelynn.1796992.github.io
-/Extension-Project
 
 
 
