@@ -5,7 +5,8 @@
 - Project 1: Description
 
 - Project 2: Description
-- jaelynn.1796992.github.io
+- https://github.com/JaelynnS11/jaelynns11.github.io/blob/main/index.md
+- 
 
 
 
