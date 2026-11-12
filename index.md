@@ -5,7 +5,7 @@
 - Project 1: Description
 
 - Project 2: Description
-- [Extension-Project.txt](https://github.com/user-attachments/files/34697399/Extension-Project.txt) 
+- [Extension-Project](extension-project.md) 
 
 
 
