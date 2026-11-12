@@ -45,7 +45,7 @@ Output/End:
 3. If they do not meet the requirements, print, "Sorry, you do not meet the requirements."
 4. Thank the user for using the program.
 
-3. Test and improve
+3. Test and improve:
  
  Test 1:
 Age:20
