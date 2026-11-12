@@ -46,7 +46,8 @@ Output/End:
 4. Thank the user for using the program.
 
 3. Test and improve
-Test 1:
+ 
+ Test 1:
 Age:20
 Height inches:55
 which ride:Ferris Wheel
